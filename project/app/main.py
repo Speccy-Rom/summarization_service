@@ -1,3 +1,4 @@
+#!/bin/bash
 from fastapi import FastAPI, Depends
 
 from .config import get_settings, Settings
