@@ -8,7 +8,9 @@ httptools==0.3.0
 idna==3.3
 pydantic==1.9.0
 python-dotenv==0.19.2
+pytest==6.2.5
 PyYAML==6.0
+requests==2.27.1
 sniffio==1.2.0
 starlette==0.17.1
 typing_extensions==4.0.1
